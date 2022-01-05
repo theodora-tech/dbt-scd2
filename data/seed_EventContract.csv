@@ -1,0 +1,12 @@
+Event_Name,Target_Column,Event_Attribute,DataType,Number_Prec,Number_Scale
+UserCreatedEvent,isWaitListed,isWaitListed,BOOLEAN,,
+UserCreatedEvent,advisorId,advisorId,VARCHAR,,
+UserCreatedEvent,externalReferenceId,externalReferenceId,VARCHAR,,
+UserCreatedEvent,countryId,countryId,VARCHAR,,
+UserCreatedEvent,msisdn,msisdn,VARCHAR,,
+UserCreatedEvent,clientApplicationId,clientApplicationId,NUMBER,21,0
+UserCreatedEvent,userId,userId,VARCHAR,,
+UserCreatedEvent,attribution,attribution,VARCHAR,,
+UserCreatedEvent,locale,locale,VARCHAR,,
+LocaleChangedEvent,locale,locale,VARCHAR,,
+LocaleChangedEvent,userId,userId,VARCHAR,,

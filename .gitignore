@@ -1,0 +1,4 @@
+.vscode
+target
+logs
+dbt_modules

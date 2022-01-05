@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: staging
+    database: [your_db_goes_here]
+    schema: [your_schema_goes_here]
+    quoting:
+      identifier: true
+    tables:
+      - name: EventDump
